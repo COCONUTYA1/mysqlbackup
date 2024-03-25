@@ -1,2 +1,3 @@
 # mysqlbackup
-利用mysqldump+mysql实现自动备份
+学习go语言以来自己开发的第一个项目
+go语言实现从mysql中读取需要备份的数据库连接信息，进行自动备份
